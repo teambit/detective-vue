@@ -1,0 +1,24 @@
+{
+  "name": "detective-vue",
+  "version": "1.0.0",
+  "description": "> Get the dependencies of Vue files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teambit/detective-vue.git"
+  },
+  "author": "amit gilad <amit@bitsrc.io>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/teambit/detective-vue/issues"
+  },
+  "homepage": "https://github.com/teambit/detective-vue#readme",
+  "dependencies": {
+    "lodash.flatten": "^4.4.0",
+    "vue-template-compiler": "^2.5.13",
+    "precinct": "teambit/node-precinct"    
+  }
+}
