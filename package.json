@@ -19,6 +19,6 @@
   "dependencies": {
     "lodash.flatten": "^4.4.0",
     "vue-template-compiler": "^2.5.13",
-    "precinct": "teambit/node-precinct"    
+    "precinct": "git+https://github.com/teambit/node-precinct.git#vue-support"
   }
 }
